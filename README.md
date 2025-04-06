@@ -9,7 +9,7 @@ Supports both **Single Player (vs AI)** and **Two Player (local multiplayer)** m
 
 | Mode           | Description                       | Live Link                                  |
 |----------------|-----------------------------------|---------------------------------------------|
-| 🌐 Deployed    | Full game on the web              | https://exquisite-blini-c9845d.netlify.app/ |
+| 🌐 Deployed    | Full game on the web              | https://sania-tic-tac-toe.netlify.app |
 
 > 🔗 Replace the link above with your actual GitHub Pages URL after deployment.
 
